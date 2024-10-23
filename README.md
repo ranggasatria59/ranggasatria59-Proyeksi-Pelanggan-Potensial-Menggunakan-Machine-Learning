@@ -8,6 +8,6 @@ Description: Proyek ini bertujuan untuk memprediksi nasabah potensial di sebuah 
 Outcome: Akurasi model mencapai 85%, membantu tim pemasaran untuk lebih fokus pada target yang lebih tepat.
 
 Hasil Menggunakan Random Forest Algortithm
-![image](https://github.com/user-attachments/assets/859a2686-66b5-440d-900c-e80f64a83e4a)
 
 
+![hasil menggunakan random forest](https://github.com/user-attachments/assets/41357fcf-ae97-4089-8188-218ba2af2213)
